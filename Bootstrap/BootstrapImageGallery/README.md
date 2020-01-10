@@ -1,7 +1,5 @@
 # Image Gallery
 
-Using
-
 ## Table of Contents
 
 * [Download](#Download)
@@ -36,8 +34,8 @@ A list of main technologies and topics learned in the page:
 1. Utilizes grid system with responsive web design.
 2. Changed color of Bootstrap navbar with a 'fixed top'.
 3. Used Bootstrap Jumbotron with icons from fontawesome.
-4. Used thumbnail class around each image.
-5. Used Flexbox to layout title and button link to photographer on unsplash.
+4. Wrapped each image in a thumbnail class.
+5. Used Flexbox to layout title and added button link to photographer on unsplash.
 
 
 
@@ -45,4 +43,4 @@ A list of main technologies and topics learned in the page:
 
 <img width="800" alt="Screen Shot 2020-01-09 at 11 15 45 PM" src="https://user-images.githubusercontent.com/52970570/72125272-f9799700-3335-11ea-9583-5ecea374d107.png">
 
-<img width="400" alt="Screen Shot 2020-01-09 at 11 17 46 PM" src="https://user-images.githubusercontent.com/52970570/72125343-4198b980-3336-11ea-90dc-a1ad09a8cdea.png">
+<img width="800" alt="Screen Shot 2020-01-09 at 11 17 46 PM" src="https://user-images.githubusercontent.com/52970570/72125343-4198b980-3336-11ea-90dc-a1ad09a8cdea.png">
