@@ -18,7 +18,7 @@ cd <directory you want to download to>
 
 git clone https://github.com/mc2green/been-there-stackathon.git
 
-Copy and paste the file path of the file into the browser.
+Copy and paste the file path into the browser.
 ```
 
 ## Programmer
