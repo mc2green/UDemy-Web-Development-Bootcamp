@@ -4,7 +4,7 @@ Supplementing my computer science education, I signed up for UDemy's Web Develop
 
 Each project has a README.md that shows the topcis covered and key technologies used, as well as examples of each project. Feel free to check them out!
 
-## Programmer
+## About the Programmer
 
 ### `Matthew Chen`
 
