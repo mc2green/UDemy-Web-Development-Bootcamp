@@ -1,4 +1,5 @@
-# Image Gallery
+# Landing Page
+This landing page would serve as the home page to a made-up website.
 
 ## Table of Contents
 
